@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d4lanis or DANIEL ALANIS
-- 👀 I’m interested in PHP, HTML, CSS, BOOTSTRAP, LARAVEL, MYSQL, JAVASCRIPT, RSTUDIO
-- 🌱 I’m currently learning LARAVEL & JAVASCRIPT
+- 👀 I’m interested in PHP, HTML, CSS, BOOTSTRAP, LARAVEL, JS, RSTUDIO, NODE, REACT, FLUTTER, PYTHON
+- 🌱 I’m currently learning JAVASCRIPT, NODE.JS, REACT.JS
 - 💞️ I’m looking to collaborate on WEBSITES  or WEB APPS
 - 📫 How to reach me daniel.alanis.hdz@gmail.com
 
