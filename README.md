@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d4lanis or DANIEL ALANIS
-- 🔭 I’m currently working on **Stellar Menus**
-- 👀 I’m interested in HTML, CSS, BOOTSTRAP, MATERIAL UI, NODE.JS, REACT.JS, TYPESCRIPT, MONGODB
-- 🌱 I’m currently learning JAVASCRIPT, TYPESCRIPT, NODE.JS, REACT.JS
+- 🔭 I’m currently working on **NiuPay**
+- 👀 I’m interested in DevOps and Development
+- 🌱 I’m currently learning Docker, AWS, TypeScript
 - 💞️ I’m looking to collaborate on WEBSITES  or WEB APPS
 - 📫 How to reach me daniel.alanis.hdz@gmail.com
 
