@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d4lanis or DANIEL ALANIS
-- 🔭 I’m currently working on **NiuPay**
+- 🔭 I’m currently working at **ClickIT**
 - 👀 I’m interested in DevOps and Development
 - 🌱 I’m currently learning Docker, AWS, TypeScript
 - 💞️ I’m looking to collaborate on WEBSITES  or WEB APPS
