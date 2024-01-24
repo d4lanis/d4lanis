@@ -25,6 +25,13 @@
     <img width="15%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg">
 </p>
 
+## Certifications and Badges
+<div  style="display: flex;  justify-content: space-around;  align-items: center;  padding: 20px;"> 
+<img width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  alt="AWS Cloud Practitioner">
+<img width="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  alt="AWS Cloud Practitioner">
+<img width="120px" src="https://images.credly.com/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"  alt="AWS Cloud Practitioner">
+</div>
+
 ## My Stats
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;"> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=d4lanis&show\_icons=true&theme=dark" alt="mystats"> 
