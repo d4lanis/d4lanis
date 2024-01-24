@@ -27,8 +27,8 @@
 
 ## My Stats
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=d4lanis&show\_icons=true&theme=dark" alt="mystats"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d4lanis&theme=dark" alt="mystreak"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=d4lanis&show\_icons=true&theme=dark" alt="mystats"> 
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=d4lanis&theme=dark" alt="mystreak"/>
  </div>
  
  ## Contact Me
