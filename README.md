@@ -31,6 +31,7 @@
 <img width="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  alt="Azure Fundamentals">
 <img width="120px" src="https://images.credly.com/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"  alt="CertiProf Remote Work">
 <img width="120px" src="https://learnupon.s3.eu-west-1.amazonaws.com/badges/183845/badge/Badge-SecArch.png"  alt="API Security Architect">
+<img width="120px" src="https://media.badgr.com/uploads/badges/assertion-9loJYREiQ1yvPzofJ0kGnQ.png"  alt="AWS Community Day Attendee">
 </div>
 
 ## My Stats
