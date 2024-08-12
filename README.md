@@ -29,6 +29,8 @@
 <div  style="display: flex;  justify-content: space-around;  align-items: center;  padding: 20px;"> 
 <img width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  alt="AWS Cloud Practitioner">
 <img width="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  alt="Azure Fundamentals">
+<img width="120px" src="https://images.credly.com/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png"  alt="CertiProf Cibersecurity">
+<img width="120px" src="https://images.credly.com/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"  alt="CertiProf Scrum Foundational">
 <img width="120px" src="https://images.credly.com/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"  alt="CertiProf Remote Work">
 <img width="120px" src="https://learnupon.s3.eu-west-1.amazonaws.com/badges/183845/badge/Badge-SecArch.png"  alt="API Security Architect">
 <img width="120px" src="https://media.badgr.com/uploads/badges/assertion-9loJYREiQ1yvPzofJ0kGnQ.png"  alt="AWS Community Day Attendee">
