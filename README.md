@@ -31,7 +31,7 @@
 <img width="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  alt="Azure Fundamentals">
 <img width="120px" src="https://images.credly.com/images/3bcf235a-f803-4b79-a0e7-9d046025df79/image.png"  alt="CertiProf Generative AI">
 <img width="120px" src="https://images.credly.com/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png"  alt="CertiProf Cibersecurity">
-<img width="120px" src="https://images.credly.com/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"  alt="CertiProf Scrum Foundational">
+<img width="120px" src="https://images.credly.com/images/f910099c-013c-431e-8bd3-705f23dde389/image.png"  alt="CertiProf Scrum Foundational">
 <img width="120px" src="https://images.credly.com/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"  alt="CertiProf Remote Work">
 <img width="120px" src="https://learnupon.s3.eu-west-1.amazonaws.com/badges/183845/badge/Badge-SecArch.png"  alt="API Security Architect">
 </div>
