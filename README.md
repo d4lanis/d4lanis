@@ -30,12 +30,10 @@
 <img width="120px" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt=" Github Foundations">
 <img width="120px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  alt="AWS Cloud Practitioner">
 <img width="120px" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"  alt="AWS AI Practitioner">
-<img width="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  alt="Azure Fundamentals">
 <img width="120px" src="https://images.credly.com/images/3bcf235a-f803-4b79-a0e7-9d046025df79/image.png"  alt="CertiProf Generative AI">
-<img width="120px" src="https://images.credly.com/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png"  alt="CertiProf Cibersecurity">
+ <img width="120px" src="https://images.credly.com/images/3f3d2763-a451-46cd-9476-51b3d3e7d1f3/blob"  alt="CertiProf Prompt Engineering Foundation Professional">
+<img width="120px" src="https://images.credly.com/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png"  alt="CertiProf Cybersecurity">
 <img width="120px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob"  alt="CertiProf Scrum Foundational">
-<img width="120px" src="https://images.credly.com/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"  alt="CertiProf Remote Work">
-<img width="120px" src="https://learnupon.s3.eu-west-1.amazonaws.com/badges/183845/badge/Badge-SecArch.png"  alt="API Security Architect">
 </div>
  
  ## Contact Me
