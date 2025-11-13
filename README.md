@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel Alanis (@d4lanis)
 
-### Full-Stack Developer | Cloud & DevOps Enthusiast | AI/ML Explorer
+### Software Engineer | Cloud & DevOps Enthusiast | AI/ML Explorer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielalanishdz/)
 [![Email](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.alanis.hdz@gmail.com)
