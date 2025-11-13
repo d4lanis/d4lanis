@@ -13,12 +13,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer currently working at **ClickIT**, where I focus on building scalable solutions and leveraging cutting-edge technologies. My interests span across:
+I'm a passionate developer currently working at **ClickIT**, where I focus on building scalable solutions and leveraging cutting-edge technologies.
 
-- 🤖 **Generative AI & Machine Learning** - Exploring the frontiers of AI-powered applications
-- ☁️ **DevOps & Cloud** - Building robust, scalable infrastructure on AWS
-- 💻 **Full-Stack Development** - Creating end-to-end solutions with modern frameworks
-- 🤖 **AI Agents & Workflows with n8n** - Learning automation with intelligent workflows
+### 🎯 Areas of Expertise & Learning
+
+- 🤖 **Generative AI & Machine Learning** - Deepening expertise in AWS AI/ML services, LLM fine-tuning, and vector databases
+- ☁️ **Cloud & DevOps** - Building robust, scalable infrastructure on AWS and Azure with Docker
+- 💻 **Full-Stack Development** - Creating end-to-end solutions with Next.js 14, React Server Components, and modern frameworks
+- 🔄 **AI Agents & Workflows** - Learning automation with n8n and intelligent workflow orchestration
+- 🤝 **Open Source** - Contributing to community projects and collaborative development
 
 ---
 
@@ -118,8 +121,6 @@ I'm a passionate developer currently working at **ClickIT**, where I focus on bu
         <img width="100" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" alt="Scrum"><br>
         <sub><b>Scrum<br>Foundation</b></sub>
       </td>
-      <td align="center" width="140">
-      </td>
     </tr>
   </table>
 </div>
@@ -131,28 +132,6 @@ I'm a passionate developer currently working at **ClickIT**, where I focus on bu
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4lanis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4lanis&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 💡 Current Focus
-
-- 🌱 Deepening expertise in **AWS AI/ML services**
-- 🔨 Building projects with **Next.js 14** and **React Server Components**
-- 🤝 Contributing to **open-source** projects
-- 📚 Learning about **LLM fine-tuning** and **vector databases**
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-Daniel_Alanis-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielalanishdz/)
-[![Gmail](https://img.shields.io/badge/-daniel.alanis.hdz@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel.alanis.hdz@gmail.com)
-
 </div>
 
 ---
